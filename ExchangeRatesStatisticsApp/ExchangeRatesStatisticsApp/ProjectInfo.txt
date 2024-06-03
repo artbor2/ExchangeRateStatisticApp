@@ -1,0 +1,5 @@
+﻿ExchangeRateStatisticsApp
+Aplikacja do wyliczyania statystyk kursów walut
+- wprowadzanie kursów walaut: cena zakupu, cena sprzedaży (ceny z punku widzenia sprzedawcy)
+- wyswietlanie statysdtyk wyliczonych na podstawie w prowadzonych kursów: maxymalna cena zakupu\sprzedaży, 
+  minimalna cena, zakupu sprzedaży, średnia cena zakupu sprzedaży
